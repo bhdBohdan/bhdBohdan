@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there, I'm Bohdan</h1>
+<h1 align="left">Hi there, I'm Bohdan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Backend+%7C+Frontend+%7C+Fullstack" alt="Typing SVG" />
