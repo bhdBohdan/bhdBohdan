@@ -1,6 +1,9 @@
 <!-- README.md -->
 
 <h1 align="left"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hi there, I'm Bohdan</h1>
+<p align="center">
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media1.tenor.com/m/gwW4p3z_jbkAAAAd/takumi-chilling.gif)" width="400" />
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+19yo%2C+student+and+software+developer+wannabe+%E2%9C%A9" width="56%" />
 
 <p align="center">
