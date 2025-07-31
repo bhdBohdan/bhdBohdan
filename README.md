@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/b-bBohdan"><img src="https://img.shields.io/github/followers/b-bBohdan?label=Follow&style=social" alt="GitHub Badge"/></a>
+  <a href="https://github.com/bhdBohdan"><img src="https://img.shields.io/github/followers/bhdBohdan?label=Follow&style=social" alt="GitHub Badge"/></a>
   <a href="mailto:bogdanohrimchuk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=b-bBohdan" alt="Visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhdBohdan" alt="Visitor badge"/>
 </p>
 <br>
 <br>
