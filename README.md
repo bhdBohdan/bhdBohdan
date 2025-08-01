@@ -6,15 +6,18 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/gwW4p3z_jbkAAAAd/takumi-chilling.gif" width="350" align="right" />
 </div>
-<div  align="center"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+19yo%2C+student+and+software+developer+wannabe+%E2%9C%A9" width="56%" />
+<div  align="center"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+19yo%2C+student+and+software+developer+wannabe+%E2%9C%A9" width="56%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Backend+%7C+Frontend+%7C+Fullstack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&center=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Backend+%7C+Frontend+%7C+Fullstack" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/bhdBohdan"><img src="https://img.shields.io/github/followers/bhdBohdan?label=Follow&style=social" alt="GitHub Badge"/></a>
   <a href="mailto:bogdanohrimchuk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+ <a href="https://t.me/bhdbhdan">
+        <img src="https://img.shields.io/badge/telegram-blue" alt="Telegram Badge">
+    </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bhdBohdan" alt="Visitor badge"/>
 </p>
 <br>
