@@ -60,16 +60,17 @@
 </p>
 
 ---
-### 📈 GitHub Stats\
+### 📈 GitHub Stats:
 
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhdBohdan&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://bhdBohdan-readme-stats.vercel.app/api/top-langs?username=bhdBohdan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="bhdBohdan's Top Languages" align="right" width="295">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhdBohdan&show_icons=true&theme=github_dark" height="180"  />
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=bhdBohdan&layout=compact&card_width=275&theme=tokyonight&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="bhdBohdan's Top Languages"  width="295"  height="180">
 
 </p>
+<p></p>
 
 
 ---
