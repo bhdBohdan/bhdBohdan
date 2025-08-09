@@ -31,13 +31,26 @@
 ---
 ### 🧠 About Me
 
+```typescript
+import Card from "./Card";
 
+const Info: React.FC = (
+  props) => {
+const someArray: string[] = [
+"-  I’m currently learning NodeJs",
+"-  I’m looking to collaborate on anything fun.",
+"-  Ask me anything about .",
+];
+
+return <>
+  someArray.map(el =>(<Card content={el}));
+</>
+}
+```
 <div>
 
 
--  I’m currently learning NodeJs
--  I’m looking to collaborate on anything fun.
--  Ask me anything about .
+
 <br>
 
 
