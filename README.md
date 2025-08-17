@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/gwW4p3z_jbkAAAAd/takumi-chilling.gif" width="350" align="right" />
 </div>
-<div  align="center"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+19yo%2C+student+and+software+developer" width="65%" />
+<div  align="center"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+19yo%2C+student+and+software+developer" width="56%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&center=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Backend+%7C+Frontend+%7C+Fullstack" alt="Typing SVG" />
