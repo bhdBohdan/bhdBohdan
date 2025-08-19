@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/bhdBohdan"><img src="https://img.shields.io/github/followers/bhdBohdan?label=Follow&style=social" alt="GitHub Badge"/></a>
   <a href="mailto:bogdanohrimchuk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
- <a href="https://t.me/bhdbhdan">
+ <a href="https://t.me/bhddan">
         <img src="https://img.shields.io/badge/telegram-blue" alt="Telegram Badge">
     </a>
  
