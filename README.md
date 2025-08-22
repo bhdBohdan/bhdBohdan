@@ -38,8 +38,9 @@ const Info: React.FC = (
   props) => {
 const someArray: string[] = [
 "-  I’m currently learning NodeJs",
-"-  I’m looking to collaborate on anything fun.",
-"-  Ask me anything about .",
+"-  Can service for SocketIo Application",
+"-  I’m looking to collaborate on anything.",
+
 ];
 
 return <>
