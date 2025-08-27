@@ -37,8 +37,8 @@ import Card from "./Card";
 const Info: React.FC = (
   props) => {
 const someArray: string[] = [
-"-  I’m currently learning NodeJs",
-"-  Can service for SocketIo Application",
+"-  I’m currently learning ReactNative",
+"-  Can work for free experience"
 "-  I’m looking to collaborate on anything.",
 
 ];
