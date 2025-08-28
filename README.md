@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="left"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hi, I'm Bohdan</h1>
+<h1 align="left"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hola, soy Bohdan</h1>
  
 
 <div align="center">
